@@ -1,0 +1,39 @@
+body
+{
+  background-position: center;
+  background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    text-align: left;
+}
+.heading h3
+{
+  display: inline;
+}
+.heading button
+{
+  float: right;
+  border: 1px solid white;
+}
+#start, #status
+{
+    font-size: 22px;
+}
+.footer{
+  background-color: grey;
+  width: 100%;
+  color: white;
+  margin-bottom: 0px;
+  line-height: 2;
+  bottom: 0;
+  position: sticky;
+}
+
+canvas
+{
+  box-shadow: 5px 5px 5px white;
+  border-radius: 10px;
+  border: 2px solid white;
+}
